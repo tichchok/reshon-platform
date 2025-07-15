@@ -10,5 +10,6 @@ This is the modular version of the Reshon platform, including:
 ## Run Locally
 
 ```bash
+npm install react-router-dom
 npm install
 npm start
